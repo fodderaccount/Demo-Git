@@ -27,7 +27,7 @@
 </head>
 
 <body>
-
+<h1>OMEGALUL</h1>
     <?php
 
     session_start();
