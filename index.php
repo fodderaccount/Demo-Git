@@ -27,7 +27,7 @@
 </head>
 
 <body>
-
+<h1> I Fixed code</h1>
     <?php
 
     session_start();
@@ -72,6 +72,7 @@
                     <!--label---->
                     <span class="sale-label">99% Off</span>
                 </li>
+
                 <li><a href="about.php">About Us</a></li>
             </ul>
             <!--right-menu----------->
