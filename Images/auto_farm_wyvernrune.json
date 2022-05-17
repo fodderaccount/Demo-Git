@@ -1,0 +1,76 @@
+{
+  "TimeCreated": "20220129T212150",
+  "Name": "Auto Farm wyvernrune",
+  "Events": [
+    {
+      "Timestamp": 3218,
+      "X": 93.75,
+      "Y": 90.0,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3373,
+      "X": 93.75,
+      "Y": 90.0,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 4301,
+      "X": 93.75,
+      "Y": 90.0,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 4421,
+      "X": 93.75,
+      "Y": 90.0,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 5101,
+      "X": 57.03,
+      "Y": 72.84,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 5135,
+      "X": 57.03,
+      "Y": 72.84,
+      "Delta": 0,
+      "EventType": "MouseMove"
+    },
+    {
+      "Timestamp": 5197,
+      "X": 57.03,
+      "Y": 72.84,
+      "Delta": 0,
+      "EventType": "MouseMove"
+    },
+    {
+      "Timestamp": 5219,
+      "X": 57.03,
+      "Y": 72.84,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "loki._.",
+  "AuthorPageUrl": "https://macros.bluestacks.com/#/?email=azralongold@gmail.com",
+  "MacroId": "31c40e1f-7e3a-46bd-a282-1a40792b4f43",
+  "MacroPageUrl": "https://macros.bluestacks.com/#/macroDetails/31c40e1f-7e3a-46bd-a282-1a40792b4f43"
+}
